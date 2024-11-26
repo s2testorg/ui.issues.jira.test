@@ -1,1 +1,6 @@
 manual:
+issues:
+  provider: jira:s2technologies/JTEST
+commit_status: false
+release: 
+  - "*_release"
